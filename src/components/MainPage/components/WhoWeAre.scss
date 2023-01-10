@@ -1,0 +1,76 @@
+.who-we-are {
+    max-width: 100%;
+    height: 160vh;
+    margin: -4px auto ;
+    padding: 0;
+    background-color: #ffffffbd;
+    position: relative;
+}
+
+.embroidered-1, .embroidered-1_1, .embroidered-2, .embroidered-2_2  {
+    width: 30%;
+    top: 17%;   
+    transform: rotate(90deg);
+    z-index: 0;
+    position: absolute;
+}
+
+.embroidered-1 {
+    left: -6%;
+}
+
+.embroidered-2 {
+    right: -6%;
+}
+
+.embroidered-1_1 {
+    top: 55%;
+    left: -6%;
+}
+
+.embroidered-2_2 {
+    top: 55%;
+    right: -6%;
+}
+
+.container {
+    padding: 50px 150px;
+    position: relative;
+}
+
+.who-we-are .who-tittle {
+    margin: 0 0 35px;
+    font-size: 40px;
+    font-family: 'Rowdies', cursive;
+    font-weight: 500;
+}
+
+.who-we-are .who-info {
+    display: block;
+    position: absolute;
+    left: 23%;
+}
+
+.who-info .who-item {
+    display: flex;
+}
+
+.who-item img {
+    width: 35%;
+}
+
+.who-item .who-text {
+    width: 31.5%;
+    text-align: center;
+    padding: 30px 20px;
+    letter-spacing: 2px;    
+}
+
+.who-info a {
+    position: absolute;
+    right: 57%;
+    margin-bottom: 50px;
+    bottom: -17%;
+    background-color: #ff0000;
+    border: none;
+}
