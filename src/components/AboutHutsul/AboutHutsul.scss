@@ -1,0 +1,202 @@
+
+.hutsulu {
+  background-color: #ffffff;
+  padding-bottom: 50px;
+    
+    .hutsul-title {
+        position: relative;
+        color: white;
+        background-color: black;
+        width: 100%;
+        height: 90vh;
+        // background: url('https://karpaty-ua.org.ua/assets/images/page-titles/title-light.jpg') no-repeat 50% 0;
+        background: url("https://spadok.org.ua/images/guculy-pokhodzhennya.webp") center no-repeat;
+        background-size: cover; /*фотка на бек*/
+
+        h1 {
+          position: absolute;
+          top: 30%;
+          left: 5%;
+          font-size: 45px;
+          text-shadow: 4px 3px 4px rgba(0,0,0,0.73);
+        }
+
+        h3 {
+            position: absolute;
+            left: 0;
+            font-size: 30px;
+            top: 55%;
+            background-color:rgba(0, 0, 0, 0.685);
+            width: fit-content;
+            padding: 10px;
+        }
+    }
+
+.hutsulu-info {
+    text-align: left;
+    font-size: 17px;
+    text-align: justify;
+    width: 100%;
+
+    p {
+      margin-bottom: 30px;
+    }
+
+    .photo {
+      display: flex;
+      
+      img {
+        width: 50%;
+      }
+    }
+
+    .photos {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      height: 100vh;
+      width: 100%;
+      grid-gap: 1%;
+
+      img {
+        height: inherit;
+        width: 100%;
+        object-fit: cover;
+      }
+
+      .two-photos {
+        display: grid;
+        grid-template-rows: 50% 50%;
+        grid-gap: 1%;
+        height: inherit;
+
+        img {
+          object-fit: cover;
+          height: 100%;
+          width: 100%;
+        }
+      }
+
+  }
+
+    .blockquote-6 {
+      border-left: 6px solid #a18037;
+      font-size: 18px;
+      font-style: italic;
+      margin: 40px 0;
+      padding: 16px 24px;
+      position: relative;
+    }
+    .blockquote-6:before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: -6px;
+        height: 40px;
+        background-color: #c2baa7;
+        width: 6px;
+        margin-top: -1em;
+    }
+    .blockquote-6:after {
+        content: "”";
+        position: absolute;
+        top: 50%;
+        left: -20px;
+        color: #1f472d;
+        font-size: 50px;
+        font-family: Times, sans-serif;
+        font-weight: bold;
+        line-height: 30px;    
+    }
+
+
+    hr {
+      background: black;
+      border: 0;
+      height: 1px;
+    }
+
+    h1 { 
+        color: rgb(83, 83, 83); 
+        font-family: 'Trocchi', serif; 
+        font-size: 45px; 
+        font-weight: normal; 
+        line-height: 48px;
+        text-align: center;
+        margin: 20px; 
+        margin-bottom: 60px;
+    }
+    
+    // h3 {
+    //     border-bottom: 3px solid #a18037;
+    //     width: fit-content;
+    //     padding: 10px;
+    //     border-radius: 20px;
+    //     color: rgb(83, 83, 83);
+    // }
+
+    
+
+    .buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 50px;
+    }
+
+    .button-68 {
+      appearance: none;
+      backface-visibility: hidden;
+      background-color: #a18037;
+      border-radius: 8px;
+      border-style: none;
+      box-shadow: rgba(95, 90, 16, 0.15) 0 4px 9px;
+      box-sizing: border-box;
+      color: #fff;
+      cursor: pointer;
+      display: inline-block;
+      font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: normal;
+      line-height: 1.5;
+      outline: none;
+      overflow: hidden;
+      padding: 13px 20px;
+      position: relative;
+      text-align: center;
+      text-decoration: none;
+      transform: translate3d(0, 0, 0);
+      transition: all .3s;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: top;
+      white-space: nowrap;
+    }
+    
+    .button-68:hover {
+      background-color: #6d5727;
+      opacity: 1;
+      transform: translateY(0);
+      transition-duration: .35s;
+      box-shadow: rgba(83, 74, 19, 0.2) 0 6px 12px;
+    }
+    
+    .button-68:active {
+      transform: translateY(2px);
+      transition-duration: .35s;
+    }
+    
+    .color {
+      background-color: #337049;
+    }
+
+    .color:hover {
+      background-color: #244b32;
+    }
+
+}
+
+
+
+
+}

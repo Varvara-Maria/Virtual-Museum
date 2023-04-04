@@ -1,0 +1,44 @@
+.more-photos {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    // column-gap: 5px;
+    .kosiv-many-photos {
+        border: 2px solid white;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 70vh;
+            transition: transform .5s ease;
+        }
+
+        p {
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-decoration: none;
+            color: #1e2842;
+            position: absolute;
+            width: 100%;
+            padding: 50px 0;
+            background-color: rgba(255, 255, 255, 0.664);
+            font-weight: 600;
+            font-size: 30px;
+            margin: 0 auto;
+            bottom: 0;
+        }
+    }
+    
+    .kosiv-many-photos:hover {
+            
+        img {
+            transform: scale(1.2);
+        }
+        
+        p {
+            background-color: rgba(255, 255, 255, 0.788);
+        }
+
+    }
+}

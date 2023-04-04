@@ -1,13 +1,12 @@
 .header {
     display: flex;
     height: 10vh;
-    // padding: 0 10px;
     background-color: #1f472d;
     font-family: 'Roboto', sans-serif;
     justify-content: space-between;
-    position: fixed;
+    position: sticky;
     z-index: 15;
-    // top: 0;
+    top: 0;
     width: 100%
 }
 
@@ -51,9 +50,8 @@
       color: #fff;
     }
 
-    li a:hover {
-      color: rgba(4, 4, 39, 0.7);
-      font-weight: 500;
+    li a:hover, .active {
+      color: #8cce9f;
     }
 
     li:hover {

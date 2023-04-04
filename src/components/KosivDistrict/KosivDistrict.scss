@@ -1,0 +1,240 @@
+.district {
+    width: 100%;
+    position: relative;
+    background-color: #f5f5f5;
+
+    h1 {
+        position: absolute;
+        top: 35%;
+        left: 28%;
+        z-index: 3;
+        background-clip: border-box;
+        font-size: 5rem;
+    }
+
+    .custom-shape-divider-top-1676912913 {
+        z-index: 1;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        overflow: hidden;
+        line-height: 0;
+    }
+    
+    .custom-shape-divider-top-1676912913 svg {
+        position: relative;
+        display: block;
+        width: calc(134% + 1.3px);
+        height: 124px;
+    }
+    
+    .custom-shape-divider-top-1676912913 .shape-fill {
+        fill: #1F472D;
+    }
+
+    .container {
+
+        .history-moda {
+            margin: 30px 0;
+            width: 100%;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 20px;
+            row-gap: 20px;
+    
+            .moda-block {
+                width: 100%;
+                position: relative;
+                padding: 0;
+                margin: 0;
+                background-color: black;
+                text-align: center;
+    
+                a {
+                    text-decoration: none;
+    
+                    img {
+                        width: 100%;
+                        height: 45vh;
+                        z-index: 0;
+                        opacity: 0.5;
+                    }
+                    
+    
+                    p {
+                        margin: 0;  
+                        font-size: 35px;
+                        font-weight: 600;
+                        color: white;
+                        z-index: 1;
+                        position: absolute;
+                        left: 50%;
+                        top: 50%;
+                        transform: translate(-50%, -50%);
+                        transform-origin: center;
+                    }
+                }
+    
+                a:hover {
+                    img {
+                        opacity: 0.3;
+                    }
+                }
+            }
+        }
+
+        .text {
+            font-size: 18px;
+            padding: 10px 0;
+            p {
+                margin-top: 30px;
+                text-align: left;
+            }
+        }
+
+        h2 {
+            margin: 50px 0;
+            border-top: 2px solid #412c16;
+            border-bottom: 2px solid #412c16;
+            padding: 10px 0;
+            font-size: 35px;
+            color: #412c16;
+        }
+        
+        .img {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            row-gap: 35px;
+            column-gap: 65px;
+            margin-left: 5px;
+
+            img {
+                height: 47vh;
+            }
+        }
+
+        .image {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            margin: 35px 0;
+            column-gap: 70px;
+
+            img {
+                height: 65vh;
+            }
+        }
+
+
+    }
+
+    
+
+    .more-photos {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        border-top: 2px solid #412c16;
+        border-bottom: 2px solid #412c16;
+        padding: 40px 0;
+        color: #412c16;
+        margin: 80px 0;
+
+        p {
+            margin: 0;
+            padding: 0;
+            line-height: 40px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .button-23 {
+            border: none;
+            border-radius: 8px;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            height: 60px;
+            margin: 10px 35px;
+            padding: 13px 23px;
+            width: 20%;
+            background-color: #302111;
+        }
+
+        .button-23:active {
+            background-color: opacity;
+            transform: scale(.96);
+        }
+    }
+
+    .video {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 40px;
+    }
+}
+
+.blur {
+    position: relative;
+    overflow: hidden;
+    height: 680px;
+    width: 100%;
+}
+
+.blur:before {
+    content: '';
+    display: block;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: url('https://kosiv.life/files_ci/586/27__large.jpg') center;
+    // https://huculia.info/wp-content/uploads/2021/04/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%BE%D1%80%D0%B8.jpg
+    background-size: cover;
+    filter: blur(15px);
+}
+
+.blur:after {
+    content: 'Косівський район';
+    position: absolute;
+    left: 0;
+    top: 10%;
+    height: 100%;
+    width: 100%;
+    font-family: Roboto, 'Helvetica Neue', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 160px;
+    font-weight: bold;
+    text-align: center;
+    padding: 100px 0;
+    box-sizing: border-box;
+    background: url('https://huculia.info/wp-content/uploads/2021/04/%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%BE%D1%80%D0%B8.jpg') center;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.custom-shape-divider-top-1676912913 {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1676912913 svg {
+    position: relative;
+    display: block;
+    width: calc(134% + 1.3px);
+    height: 124px;
+}
+
+.custom-shape-divider-top-1676912913 .shape-fill {
+    fill: #1F472D;
+}
+
+    

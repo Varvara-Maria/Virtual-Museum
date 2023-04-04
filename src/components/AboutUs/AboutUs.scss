@@ -1,0 +1,63 @@
+
+.about-us {
+    background-image: url('https://d1di2lzuh97fh2.cloudfront.net/files/0o/0ou/0oupo1.png?ph=0025de801d');
+    text-align: justify;
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 40px;
+
+    .blockquote-6 {
+        border-left: 6px solid #ae2f2f;
+        font-size: 23px;
+        font-style: italic;
+        margin: 40px 0;
+        padding: 16px 24px;
+        position: relative;
+    }
+    .blockquote-6:before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: -6px;
+        height: 40px;
+        background-color: #fff;
+        width: 6px;
+        margin-top: -1em;
+    }
+    .blockquote-6:after {
+        content: "”";
+        position: absolute;
+        top: 50%;
+        left: -20px;
+        color: #b36e6e;
+        font-size: 50px;
+        font-family: Times, sans-serif;
+        font-weight: bold;
+        line-height: 30px;    
+    }
+
+    span {
+        font-weight: 500;
+    }
+
+    img {
+        margin-top: 50px;
+        position: relative;
+        left: 7%;
+    }
+
+    h1 {
+        color: #b36e6e;
+       margin-top: 50px;
+    }
+
+    h2 {
+        margin-top: 50px;
+    }
+
+    li {
+        line-height: 35px;
+        list-style-type:square;
+    }
+}
+

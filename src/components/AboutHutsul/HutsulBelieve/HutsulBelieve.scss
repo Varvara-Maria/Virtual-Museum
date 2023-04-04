@@ -1,0 +1,37 @@
+.hutsul-believe {
+    padding-bottom: 50px;
+
+    .believe-title {
+        position: relative;
+
+        h1 {
+            position: absolute;
+            top: 82%;
+            font-size: 35px;
+            left: 10.7%;
+            color: white;
+            text-shadow: 4px 3px 4px rgba(0,0,0,0.73);
+            background-color: rgba(0, 0, 0, 0.534);
+            padding: 20px;
+        }
+    }
+
+    .believe-info {
+        text-align: left;
+        text-align: justify;
+
+        h2 {
+            margin-top: 30px;
+        }
+
+        span {
+            font-style: italic; 
+        }
+
+        .believe-foto {
+            margin: 30px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+}

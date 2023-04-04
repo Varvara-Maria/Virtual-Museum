@@ -1,0 +1,46 @@
+.interesting-facts {
+    // margin-left: 0;
+    margin-bottom: 30px;
+
+    .intereasting-fachts_main {
+        color: white;
+        width: 100%;
+        height: 55vh;
+        background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%B8_%D0%B7_%D1%82%D1%80%D0%B5%D0%BC%D0%B1%D1%96%D1%82%D0%B0%D0%BC%D0%B8.jpg/800px-%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%B8_%D0%B7_%D1%82%D1%80%D0%B5%D0%BC%D0%B1%D1%96%D1%82%D0%B0%D0%BC%D0%B8.jpg") center no-repeat;
+        background-size: cover; 
+    }
+
+    h1 {
+        margin: 0 auto;
+        padding-top: 50px;
+        color: #fff;
+        text-shadow: 4px 3px 4px rgba(0,0,0,0.73);
+        font-size: 45px;
+    }
+
+
+    .container {
+        height: 80vh;
+        position: relative;
+    }
+
+    .intereasting-fachts_info {
+        font-size: 17px;
+        text-align: left;
+        position: absolute;
+        left: 12.5%;
+        border-radius: 30px;
+        padding: 40px;
+        top: -30%;
+        width: 70%;
+        background-color: #fff;
+
+        h2 {
+            margin-bottom: 40px;
+        }
+
+        p {
+            margin-bottom: 30px;
+        }
+    }
+} 

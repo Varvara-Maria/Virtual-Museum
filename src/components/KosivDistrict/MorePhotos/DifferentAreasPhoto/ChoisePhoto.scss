@@ -1,0 +1,41 @@
+.photos {
+    display: flex;
+    width: 100%;
+    background-color: black;
+
+
+    .choise {
+        width: 50%;
+        height: 90vh;
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+        cursor: pointer;
+
+
+        img {
+            width: 100%;
+            z-index: 0;
+            opacity: 0.6;
+        }
+
+        p {
+            width: 100%;
+            margin: 0 auto;
+            top: 45%;
+            text-transform: uppercase;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            z-index: 3;
+            font-weight: 600;
+            position: absolute;
+            font-size: 50px;
+            color: white;
+        }
+    }
+
+    .choise:hover {
+        img {
+            opacity: 0.4;
+        }
+    }
+}
