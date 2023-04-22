@@ -30,7 +30,7 @@ class Contacts extends React.Component {
     e.preventDefault();
     axios({
       method: "POST", 
-      url:"http://localhost:5000/send", 
+      url:"https://virtual-museum.onrender.com/send", 
       data:  this.state
     }).then((response)=>{
       if (response.status === 200){
