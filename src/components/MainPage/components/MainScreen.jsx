@@ -32,7 +32,7 @@ function MainScreen() {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 4000,
     infinite: true,
     pauseOnHover:true,
   } 
@@ -62,7 +62,7 @@ function MainScreen() {
        <div className="element-slider">    
         <img src="./img/img1.jpg" alt="" />
           <div className="text-slider">
-            <h4>Дивися разомм з нами</h4>
+            <h4>Дивися разом з нами</h4>
             <h5>ГУЦУЛИ ТА ГУЦУЛЬЩИНА, ІСТОРІЯ, ГЕОГРАФІЯ, КУЛЬТУРА, ТРАДИЦІЇ</h5>
             <a href="" onClick={routeChange_3} class="button">Детальніше</a>
           </div>

@@ -98,14 +98,14 @@ function VuznutsaDistrict() {
 			</div>
 		</div>
 
-		<div className="videos">
+	<div className="videos">
         <iframe width="380" height="258" src="https://www.youtube.com/embed/M2gXk_hSI0g" title="Відео екскурсія про одягові традиції Гуцульщини на Вижниччині" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
 		<iframe width="380" height="258" src="https://www.youtube.com/embed/5yJQtrVwVdY" title="Вижниця (Адаптоване)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div></div>
-		<div></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
+		<div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
 		<iframe width="380" height="258" src="https://www.youtube.com/embed/HlvaTWHsXAc" title="Виженські мотиви" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
 		<iframe width="379" height="258" src="https://www.youtube.com/embed/7RIPhM-s894" title="Vizhenka/Виженські мотиви" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
 	</div>

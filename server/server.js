@@ -9,10 +9,11 @@ const PORT = process.env.PORT || 5000;
 
 const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com", 
-    port: 587,
+    port: 465,
+    secure: true,
     auth: {
       user: 'varyaa2002@gmail.com',
-      pass: 'tmdbdbverjwvrodo'
+      pass: 'ebpervrxyiliwzmp'
     }
 });
 
@@ -31,9 +32,9 @@ app.listen(PORT, () => {
 });
 
 app.post('/send', (req, res, next) => {
-
+console.log(req.body.email);
   transporter.sendMail({
-    from:`${req.body.name}, ${req.body.email}`,
+    from:`${req.body.email}`,
     to:`varyaa2002@gmail.com`,
     subject:`feedback from ${req.body.name}, ${req.body.email}`,
     text:`${req.body.message}`,

@@ -49,25 +49,11 @@ function Footer() {
             <p>
               78600, вул.Незалежності, 55, м.Косів, Івано-Франківської області
             </p>
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10612.517232214535!2d25.092293!3d48.319595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4fdcf4f1bf7ee046!2z0JrQntCh0IbQktCh0KzQmtCY0Jkg0JzQo9CX0JXQmSDQndCQ0KDQntCU0J3QntCT0J4g0JzQmNCh0KLQldCm0KLQktCQINCGINCf0J7QkdCj0KLQoyDQk9Cj0KbQo9Cb0KzQqdCY0J3QmA!5e0!3m2!1sru!2sus!4v1673539782050!5m2!1sru!2sus"
-              width="250"
-              height="150"
-              allowfullscreen=""
-              loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"
-            ></iframe>
+            <a href="https://goo.gl/maps/vRm5CtBEgGwaUW1BA"><i class="fa-solid fa-location-dot"></i></a> 
           </div>
-          <div className="vuz">
+          <div className="vuz-info">
             <p>59200, вул. Д.Загула,13, м.Вижниця, Чернівецької області</p>
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10627.676139403038!2d25.192203!3d48.246686!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x34f4bb759efa7f11!2sVyzhnyts%CA%B9kyy%20Koledzh%20Prykladnoho%20Mystetstva%20Im.%20V.yu.%20Shkriblyaka!5e0!3m2!1sru!2sus!4v1673544051529!5m2!1sru!2sus" 
-              width="250" 
-              height="150" 
-              allowfullscreen="" 
-              loading="lazy"
-               referrerpolicy="no-referrer-when-downgrade"
-            ></iframe>
+            <a href="https://goo.gl/maps/DBYz1HHQC9U3Ky8SA"><i class="fa-solid fa-location-dot"></i></a>
           </div>
         </div>
       </div>

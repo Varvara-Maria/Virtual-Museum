@@ -11,7 +11,7 @@ function Areas() {
   }
 
   const routeChange_2 = () =>{ 
-    let path = `/vuznutskiy-district`; 
+    let path = `/vuznutsa-district`; 
     navigate(path);
   }
 

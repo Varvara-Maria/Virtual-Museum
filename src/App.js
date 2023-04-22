@@ -35,6 +35,19 @@ import PlaceInHutsul from './components/VuznutsaDistrict/PlaceInHutsul/PlaceInHu
 import Moda from './components/VuznutsaDistrict/Moda/Moda';
 import Traditions from './components/VuznutsaDistrict/Traditions/Traditions';
 import NewModa from './components/VuznutsaDistrict/NewModa/NewModa';
+import MorePhotosV from './components/VuznutsaDistrict/MorePhotos/MorePhotosV';
+import Vuzenka from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/Vuzenka';
+import NewVuzenka from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/NewVuzenka';
+import OldVuzenka from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/OldVuzenka';
+import Chornoguzu from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/Chornoguzu';
+import OldChornoguzu from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/OldChornoguzu';
+import NewChornoguzu from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/NewChornoguzu';
+import Ispas from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/Ispas';
+import NewIspas from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/NewIspas';
+import OldIspas from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/OldIspas';
+import Vashkivtsy from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/Vashkivtsy';
+import NewVashkivtsy from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/NewVashkivtsy';
+import OldVashkivtsy from './components/VuznutsaDistrict/MorePhotos/DifferentAreasPhoto/Areas/NewAndOld/OldVashkivtsy';
 
 
 function App() {
@@ -48,6 +61,7 @@ function App() {
             <Route path ="/" exact element = {<MainPage />}/>
             <Route path='/about-us' exact element={<AboutUs />} />
             <Route path='/kosiv-district' exact element={<KosivDistrict />} />
+
             <Route path='/about-hutsul' exact element={<AboutHutsul />} />
             <Route path='/about-hutsul/interesting-facts' exact element={<InterestingFacts />} />
             <Route path='/about-hutsul/what-did-the-hutsuls-believe'  exact element={<HutsulBelieve /> } />
@@ -81,7 +95,25 @@ function App() {
             <Route  path='/vuznutsa-district/moda' exact element={<Moda />} />
             <Route  path='vuznutsa-district/traditions' exact element={<Traditions />} />
             <Route  path='vuznutsa-district/new-moda' exact element={<NewModa />} />
-           
+
+            <Route  path='vuznutsa-district/more-photos' exact element={<MorePhotosV /> } />
+            <Route  path='vuznutsa-district/more-photos/vuzenka' exact element={<Vuzenka /> } />
+            <Route  path='vuznutsa-district/more-photos/new-vuzenka' exact element={<NewVuzenka /> } />
+            <Route  path='vuznutsa-district/more-photos/old-vuzenka' exact element={<OldVuzenka /> } />
+
+            <Route  path='vuznutsa-district/more-photos/chornoguzu' exact element={<Chornoguzu /> } />
+            <Route  path='vuznutsa-district/more-photos/old-chornoguzu' exact element={<OldChornoguzu /> } />
+            <Route  path='vuznutsa-district/more-photos/new-chornoguzu' exact element={<NewChornoguzu />} />
+
+            <Route  path='vuznutsa-district/more-photos/ispas' exact element={<Ispas /> } />
+            <Route  path='vuznutsa-district/more-photos/new-ispas' exact element={<NewIspas /> } />
+            <Route  path='vuznutsa-district/more-photos/old-ispas' exact element={<OldIspas /> } />
+
+            <Route  path='vuznutsa-district/more-photos/vashkivtsy' exact element={<Vashkivtsy /> } />
+            <Route  path='vuznutsa-district/more-photos/new-vashkivtsy' exact element={<NewVashkivtsy /> } />
+            <Route  path='vuznutsa-district/more-photos/old-vashkivtsy' exact element={<OldVashkivtsy /> } />
+
+
             <Route path='/contacts' exact element ={<Contacts />} />s
           </Routes>
         </div>
