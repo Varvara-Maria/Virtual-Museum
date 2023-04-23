@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 function Header() {
   
-  const [state, setState] = useState();
+  const [state, setState] = useState(0);
 
   return (
     <div className='header'>
@@ -18,7 +18,7 @@ function Header() {
         <ul>
           <li><NavLink activeClassName="active" to="/" onClick ={()=>setState(1)}>Головна</NavLink></li>
           <li><NavLink activeClassName="active" to="/about-us" onClick ={()=>setState(2)}>Про нас</NavLink></li>
-          <li><NavLink activeClassName="active" class={(state == 3 || state == 4) && 'active-drop-down'}>Більше <i class="fa-solid fa-chevron-down"></i></NavLink>
+          <li><p className={(state === 3 || state === 4) && 'active-drop-down'}>Більше <i class="fa-solid fa-chevron-down"></i></p>
             <ul class="dropdown">
               <li><NavLink id='kos' activeClassName="active" to="/kosiv-district" onClick ={()=>setState(3)}>Косівський район</NavLink></li>
               <li><NavLink id='vuz'activeClassName="active" to="/vuznutsa-district" onClick ={()=>setState(4)}>Вижницький район</NavLink></li>

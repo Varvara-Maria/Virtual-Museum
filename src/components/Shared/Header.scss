@@ -45,7 +45,11 @@
       font-family: arvo;
     }
 
-    li a {
+    li p {
+      margin: 0;
+    }
+
+    li a, p {
       font-family: 'Roboto', sans-serif;
       color: #fff;
     }
@@ -54,7 +58,7 @@
       color: #8cce9f;
     }
     
-    li a.active-drop-down {
+    li p.active-drop-down {
       color: #8cce9f;
     }
 

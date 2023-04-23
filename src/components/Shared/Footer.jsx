@@ -1,5 +1,7 @@
 import React from 'react';
 import './Footer.scss';
+import { Link } from "react-router-dom";
+
 
 function Footer() {
   return (
@@ -11,16 +13,16 @@ function Footer() {
               <h4>Швидкі посилання</h4>
               <ul>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-us">Про нас</a>
+                  <Link to="/about-us">Про нас</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul">Про Гуцулів</a>
+                  <Link to="/about-hutsul">Про Гуцулів</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/contacts">Контакти</a>
+                  <Link to="/contacts">Контакти</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/%D1%81ustoms-and-ceremonies-of-the-hutsul-region">Звичаї та обряди Гуцулів</a>
+                  <Link to="/about-hutsul/%D1%81ustoms-and-ceremonies-of-the-hutsul-region">Звичаї та обряди Гуцулів</Link>
                 </li>
               </ul>
             </div>
@@ -28,16 +30,16 @@ function Footer() {
               <h4>Більше про Гуцулів</h4>
               <ul>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/kosiv-district">Косівський район</a>
+                  <Link onTouchCancel="/kosiv-district">Косівський район</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/vuznutsa-district">Вижницький район</a>
+                  <Link to="/vuznutsa-district">Вижницький район</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/what-did-the-hutsuls-believe">У що вірили Гуцули</a>
+                  <Link to="/about-hutsul/what-did-the-hutsuls-believe">У що вірили Гуцули</Link>
                 </li>
                 <li>
-                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/interesting-facts">Цікаві факти про Гуцулів</a>
+                  <Link to="/about-hutsul/interesting-facts">Цікаві факти про Гуцулів</Link>
                 </li>
               </ul>
             </div>
