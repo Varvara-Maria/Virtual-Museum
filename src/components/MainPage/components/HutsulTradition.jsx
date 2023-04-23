@@ -16,10 +16,10 @@ function HutsulTradition() {
         <div className='container'> 
         <div className="hutsul-info">
             <div className="hutsul-img">
-                <img src="https://vidviday.ua/blog/wp-content/uploads/2017/12/%D0%9F%D0%BE%D0%B6%D0%BE%D0%B4%D0%B6%D1%83%D0%BA%D0%B8.jpg" alt="" />
-                <img src="https://i.siteapi.org/12_amjrISSMbzMhAorpnbad0goQ=/0x0:1200x723/9b287bab56f73d1.ua.s.siteapi.org/img/2ec7vyhaaluskg0goc80kk0kocsc8c" alt="" />
-                <img src="https://huculia.info/wp-content/uploads/2021/02/21.jpg" alt="" />
-                <img src="https://i.pinimg.com/originals/34/b0/b1/34b0b10c169f21fd2b2a986c1fa05d3f.jpg" alt="" />
+                <img src="https://vidviday.ua/blog/wp-content/uploads/2017/12/%D0%9F%D0%BE%D0%B6%D0%BE%D0%B4%D0%B6%D1%83%D0%BA%D0%B8.jpg" alt="photo of hutsul" />
+                <img src="https://i.siteapi.org/12_amjrISSMbzMhAorpnbad0goQ=/0x0:1200x723/9b287bab56f73d1.ua.s.siteapi.org/img/2ec7vyhaaluskg0goc80kk0kocsc8c" alt="photo of hutsul" />
+                <img src="https://huculia.info/wp-content/uploads/2021/02/21.jpg" alt="photo of hutsul" />
+                <img src="https://i.pinimg.com/originals/34/b0/b1/34b0b10c169f21fd2b2a986c1fa05d3f.jpg" alt="photo of hutsul" />
 
             </div>
             <div className="hutsul-text">

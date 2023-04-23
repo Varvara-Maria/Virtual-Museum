@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.scss'
+import './Footer.scss';
 
 function Footer() {
   return (
@@ -11,16 +11,16 @@ function Footer() {
               <h4>Швидкі посилання</h4>
               <ul>
                 <li>
-                  <a href="http://localhost:3000/about-us">Про нас</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-us">Про нас</a>
                 </li>
                 <li>
-                  <a href="http://localhost:3000/about-hutsul">Про Гуцулів</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul">Про Гуцулів</a>
                 </li>
                 <li>
-                  <a href="http://localhost:3000/contacts">Контакти</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/contacts">Контакти</a>
                 </li>
                 <li>
-                  <a href="http://localhost:3000/about-hutsul/%D1%81ustoms-and-ceremonies-of-the-hutsul-region">Звичаї та обряди Гуцулів</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/%D1%81ustoms-and-ceremonies-of-the-hutsul-region">Звичаї та обряди Гуцулів</a>
                 </li>
               </ul>
             </div>
@@ -28,16 +28,16 @@ function Footer() {
               <h4>Більше про Гуцулів</h4>
               <ul>
                 <li>
-                  <a href="http://localhost:3000/kosiv-district">Косівський район</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/kosiv-district">Косівський район</a>
                 </li>
                 <li>
-                  <a href="#">Вижницький район</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/vuznutsa-district">Вижницький район</a>
                 </li>
                 <li>
-                  <a href="http://localhost:3000/about-hutsul/what-did-the-hutsuls-believe">У що вірили Гуцули</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/what-did-the-hutsuls-believe">У що вірили Гуцули</a>
                 </li>
                 <li>
-                  <a href="http://localhost:3000/about-hutsul/interesting-facts">Цікаві факти про Гуцулів</a>
+                  <a href="https://main--dynamic-praline-eed83d.netlify.app/about-hutsul/interesting-facts">Цікаві факти про Гуцулів</a>
                 </li>
               </ul>
             </div>

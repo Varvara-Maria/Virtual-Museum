@@ -4,12 +4,12 @@ import '../MensFashion/MensFashion.scss'
 export default function Outerwear() {
   return (
     <div className='fashion'>
-        <img height='400' src="https://spadok.org.ua/images/zymovyi-odyag-ukrainciv.webp" alt="" />
+        <img height='400' src="https://spadok.org.ua/images/zymovyi-odyag-ukrainciv.webp" alt="photo of hutsul clotes" />
         <h1>Верхній одяг</h1>
 
         <div className="container">
             <p>Чи не найулюбленішим верхнім одягом на Гуцульщині був <i>«кептар» (киптар)</i> - безрукавка з овчини, зшита хутром у середину. Характер оздоблення та крій кептарів зазвичай не залежав від віку та статі. Проте, безрукавки із багатим та складним оздобленням могли придбати тільки заможні селяни.</p>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Keptar.%D0%9A%D0%B5%D0%BF%D1%82%D0%B0%D1%80.jpg" alt="" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Keptar.%D0%9A%D0%B5%D0%BF%D1%82%D0%B0%D1%80.jpg" alt="photo of hutsul clotes" />
             <p>У селах східного передмістя Косова, були поширені декілька типів кептарів</p>
             <p>Найдавніший тип вирізнявся багатим оздобленням. Аплікації з сап'яну мали вигляд зубців, а на грудях - кучерів із загнутими догори кінцями. <b>«Зубчики» - то такі так си називало»</b> (Записано від Параски Павлюк, 1926 р.н. с.Вербовець. Косівський р-н. Івано-Франківська обл.).</p>
             <p>Поверх сап'янових аплікацій набивалися металеві бляшки - капслі. Краї безрукавки оздоблювалися сірим смушком. До пазухи коміра прикріплювалися шкіряні китиці на довгому крученому ремінці. Основи китиць декорувались наперстками.</p>
@@ -18,8 +18,8 @@ export default function Outerwear() {
             <p>У селах Вербовець, Старий Косів, Смодна і Черганівка входять в ужиток так звані "кутські" кептарі, що виготовлялися в містечку Кути.</p>
             <p>Для них характерне оздоблення рослинним орнаментом «у міртовий взір». Його вишивали на окремій смужці шкіри, яку згодом пришивали до виробу.</p>
             <div className="mens-img">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%BA%D0%B01917.jpg/250px-%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%BA%D0%B01917.jpg" alt="" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kazimierz_Sichulski_-_A_Hutsul_Bridesmaid.jpg/250px-Kazimierz_Sichulski_-_A_Hutsul_Bridesmaid.jpg" alt="" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%BA%D0%B01917.jpg/250px-%D0%93%D1%83%D1%86%D1%83%D0%BB%D0%BA%D0%B01917.jpg" alt="photo of hutsul clotes" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kazimierz_Sichulski_-_A_Hutsul_Bridesmaid.jpg/250px-Kazimierz_Sichulski_-_A_Hutsul_Bridesmaid.jpg" alt="photo of hutsul clotes" />
             </div>
             <p>Також у середині ХХ ст. в селах передмістя Косова, були поширені білі кептарі з темним смушком без оздоблення.</p>
             <p>Ближче до середини ХХ століття поблизу Косова набуває популярності тип кептаря зовсім іншого вигляду.</p>
@@ -28,8 +28,8 @@ export default function Outerwear() {
             <p>У морози вдягали кожухи - верхній одяг з овечої шкіри. У селах передмістя Косова вони оздоблювалися таким же способом, як і кептарі. Були як короткі кожухи, так і довжиною до коліна. В Черганівці носили білі кожухи буковинського типу, довжина яких майже досягала підлоги.</p>
             <p>Популярним чоловічим одягом був сардак - оплічний одяг з доморобного сукна. Сардаки у селах Вербовець та Старий Косів мали характерне оздоблення. Шились вони з чорного, сірого або темно-коричневого сукна. Яскравими акцентами були вставки з червоного сукна - комір та клини. Місця з'єднань деталей, краї виробу та передні полики прикрашались об'ємними шнурами без китиць.</p>
             <div className="mens-img">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%A0%D1%83%D1%81%D0%B8%D0%BD_%D0%B7_%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%88_1876.jpg/250px-%D0%A0%D1%83%D1%81%D0%B8%D0%BD_%D0%B7_%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%88_1876.jpg" alt="" />
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B8%D0%BF%D1%8B_063.jpg/250px-%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B8%D0%BF%D1%8B_063.jpg" alt="" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%D0%A0%D1%83%D1%81%D0%B8%D0%BD_%D0%B7_%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%88_1876.jpg/250px-%D0%A0%D1%83%D1%81%D0%B8%D0%BD_%D0%B7_%D0%9C%D0%B0%D1%80%D0%BC%D0%B0%D1%80%D0%BE%D1%88_1876.jpg" alt="photo of hutsul clotes" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B8%D0%BF%D1%8B_063.jpg/250px-%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B8%D0%BF%D1%8B_063.jpg" alt="photo of hutsul clotes" />
             </div>
        </div>
     </div>

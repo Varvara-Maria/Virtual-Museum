@@ -49,25 +49,25 @@ function VuznutsaDistrict() {
 			<div className="history-moda">
 				<div  className="moda-block">
 					<a onClick={routeChange_1}>
-						<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/%D0%92%D0%B8%D0%B6%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_73-205-5001.JPG" alt="" />
+						<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/%D0%92%D0%B8%D0%B6%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_73-205-5001.JPG" alt="photo of hutsul clotes" />
 						<p className='moda-text'>МІСЦЕ ВИЖНИЧЧИНИ В ГУЦУЛЬСЬКІЙ СПІЛЬНОТІ</p>
 					</a>
 				</div>
 				<div className="moda-block">
 					<a onClick={routeChange_2}>
-						<img src="https://i.pinimg.com/736x/b7/aa/1f/b7aa1ff576638af317591d1a745c2e19--old-photos-blog-page.jpg" alt="" />
+						<img src="https://i.pinimg.com/736x/b7/aa/1f/b7aa1ff576638af317591d1a745c2e19--old-photos-blog-page.jpg" alt="photo of hutsul clotes" />
 						<p className='moda-text'>МОДА ГУЦУЛЬЩИНИ НА БУКОВИНІ</p>
 					</a>
 				</div>
 				<div className="moda-block">
 					<a onClick={routeChange_3}>
-						<img src="https://zak.depo.ua/uploads/posts/20200801/750x/mOwbiuIQdYBnE6xbIRNfefW8CZKmnv7HoXO4ad9Z.jpeg" alt="" />
+						<img src="https://zak.depo.ua/uploads/posts/20200801/750x/mOwbiuIQdYBnE6xbIRNfefW8CZKmnv7HoXO4ad9Z.jpeg" alt="photo of hutsul clotes" />
 						<p className='moda-text'>ОСОБЛИВОСТІ ТРАДИЦІЙНОГО СТРОЮ НА ВИЖНИЧЧИНІ</p>
 					</a>
 				</div>
 				<div className="moda-block">
 					<a onClick={routeChange_4}>
-						<img src="https://varosh.com.ua/wp-content/uploads/2020/07/1595872058-960x641.jpg" alt="" />
+						<img src="https://varosh.com.ua/wp-content/uploads/2020/07/1595872058-960x641.jpg" alt="photo of hutsul clotes" />
 						<p className='moda-text'>«Вижницький коледж прикладного мистецтва ім. В. Ю. Шкрібляка»</p>
 					</a>
 				</div>
@@ -84,15 +84,15 @@ function VuznutsaDistrict() {
 			<div className="etno">
 				<h2>Елементи ентовиставки</h2>
 					<div className="img">
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000007-0b6ca0b6cd/P1750266.JPG?ph=0025de801d" alt="" />
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000008-cd548cd54a/P1750265.JPG?ph=0025de801d" alt="" />
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000010-8b6dc8b6de/P1750294.JPG?ph=0025de801d" alt="" />
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000014-da935da937/P1750459.JPG?ph=0025de801d" alt="" />
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000016-e50a5e50a8/P1750505.JPG?ph=0025de801d" alt="" />
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000015-603f9603fb/P1750494.JPG?ph=0025de801d" alt="" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000007-0b6ca0b6cd/P1750266.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000008-cd548cd54a/P1750265.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000010-8b6dc8b6de/P1750294.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000014-da935da937/P1750459.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000016-e50a5e50a8/P1750505.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000015-603f9603fb/P1750494.JPG?ph=0025de801d" alt="photo of hutsul clotes" />
 					</div>
 				<div className='more-photos'>
-					<p>Старі та сучасні фотографії <b> Старого Косова, Вербовця, Черганівки та Смодна </b>можна переглянути тут </p>
+					<p>Старі та сучасні фотографії <b> Виженка, Чорногузи, Іспас та Вашківці </b>можна переглянути тут </p>
 					<button onClick={routeChange_5} class="button-23" role="button">Більше</button>
 				</div>
 			</div>
@@ -100,12 +100,12 @@ function VuznutsaDistrict() {
 
 	<div className="videos">
         <iframe width="380" height="258" src="https://www.youtube.com/embed/M2gXk_hSI0g" title="Відео екскурсія про одягові традиції Гуцульщини на Вижниччині" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="vushuvanka" /></div>
 		<iframe width="380" height="258" src="https://www.youtube.com/embed/5yJQtrVwVdY" title="Вижниця (Адаптоване)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
-		<div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="vushuvanka" /></div>
+		<div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="vushuvanka" /></div>
 		<iframe width="380" height="258" src="https://www.youtube.com/embed/HlvaTWHsXAc" title="Виженські мотиви" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="" /></div>
+        <div className='color'><img height='258' src="https://i.ibb.co/PFcGTQy/pngwing-com.png" alt="vushuvanka" /></div>
 		<iframe width="379" height="258" src="https://www.youtube.com/embed/7RIPhM-s894" title="Vizhenka/Виженські мотиви" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
 	</div>

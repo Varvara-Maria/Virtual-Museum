@@ -46,11 +46,11 @@ function Chornoguzu() {
         <p>Святковий чоловічий одяг теж включав кептар, сердак, а капелюх прикрашали пір'ям, кутасами або герданами.</p>
         <div className='photos'>
             <a onClick={routeChange_1} className='choise'>
-                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000321-778be778bf/21%D0%902.webp?ph=0025de801d" alt="" />
+                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000321-778be778bf/21%D0%902.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                 <p>Історичні фото</p>
             </a>
             <a onClick={routeChange_2} className='choise'>
-                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000313-ef196ef198/P1700682.webp?ph=0025de801d" alt="" />
+                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000313-ef196ef198/P1700682.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                 <p>Сучасні фото</p>
             </a>
         </div>

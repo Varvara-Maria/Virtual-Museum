@@ -41,11 +41,11 @@ function Vuzenka() {
 
           <div className='photos'>
               <a onClick={routeChange_1} className='choise'>
-                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000319-8f63b8f63d/32%20%D0%903.webp?ph=0025de801d" alt="" />
+                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000319-8f63b8f63d/32%20%D0%903.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                   <p>Історичні фото</p>
               </a>
               <a onClick={routeChange_2} className='choise'>
-                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000320-6cc6d6cc6e/P1680329.webp?ph=0025de801d" alt="" />
+                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000320-6cc6d6cc6e/P1680329.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                   <p>Сучасні фото</p>
               </a>
           </div>

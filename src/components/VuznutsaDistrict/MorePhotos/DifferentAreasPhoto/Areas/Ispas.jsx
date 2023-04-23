@@ -39,11 +39,11 @@ function Ispas() {
 
         <div className='photos'>
             <a onClick={routeChange_1} className='choise'>
-                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000322-2881128812/15%20%D0%904.webp?ph=0025de801d" alt="" />
+                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000322-2881128812/15%20%D0%904.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                 <p>Історичні фото</p>
             </a>
             <a onClick={routeChange_2} className='choise'>
-                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000231-7958c7958f/P1300412.jpg?ph=0025de801d" alt="" />
+                <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000231-7958c7958f/P1300412.jpg?ph=0025de801d" alt="photo of hutsul clotes" />
                 <p>Сучасні фото</p>
             </a>
         </div>

@@ -53,6 +53,10 @@
     li a:hover, .active {
       color: #8cce9f;
     }
+    
+    li a.active-drop-down {
+      color: #8cce9f;
+    }
 
     li:hover {
       cursor: pointer;

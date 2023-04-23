@@ -5,7 +5,7 @@ import './MensFashion.scss'
 export default function MensFashion() {
   return (
     <div className='fashion'>
-        <img src="https://zak.depo.ua/uploads/posts/20200801/750x/mOwbiuIQdYBnE6xbIRNfefW8CZKmnv7HoXO4ad9Z.jpeg" alt="" />
+        <img src="https://zak.depo.ua/uploads/posts/20200801/750x/mOwbiuIQdYBnE6xbIRNfefW8CZKmnv7HoXO4ad9Z.jpeg" alt="photo of hutsul clotes" />
         <h1>Чоловіча мода</h1>
 
         <div className="container">
@@ -30,13 +30,13 @@ export default function MensFashion() {
             <p>Ближче до середини ХХ ст., очевидно під впливом сусідньої Буковини, у вишивках з'являються і рослинні візерунки.</p>
             <p>Зазнає змін крій чоловічих сорочок. Крім коміра-стійки з'являються відкладні коміри з прямими та заокругленими краями. Серед молодих чоловіків поширюється мода пов'язувати під такий комір шовкову стрічку у вигляді своєрідного банту. Очевидно, це було запозичення з міської моди.</p>
             <p>Стають популярними сорочки з нагрудником - суцільним широким орнаментом у нагрудній частині з пазушним розрізом збоку вишивки.</p>
-            <img height='400' src="https://spadok.org.ua/images/guculy-rozbijnyky-opryshky.webp" alt="" />
+            <img height='400' src="https://spadok.org.ua/images/guculy-rozbijnyky-opryshky.webp" alt="photo of hutsul clotes" />
     
             <h2 class="pretty-header left-right-line-header">Пояси</h2>
             <p>На Гуцульщині невід'ємною частиною вбрання був тканий пояс - <i>крайка</i>, яким чоловіки підперізували сорочку, а жінки - поясний одяг.</p>
             <p>У селах поблизу Косова такий аксесуар називали <i>«окрийка»</i>. Пояс ткали різнобарвними повздовжніми смугами переважно з високоякісної вовни, рідше шовку. Побутували також пояси з дрібним узором з комбінацією ромбів, трикутників і скісних хрестів. Колористика була співзвучною з барвами вишивок на сорочках. Деякі чоловіки носили ремінні пояси, інколи - з металевим оздобленням, але це не було масовим явищем.</p>
             <p>До початку ХХ століття у селах передмістя Косова чоловіки носили широкі шкіряні пояси-череси. Але пізніше ця традиція не збереглася.</p>
-            <img src="https://st2.bazarok.ua/362e255f72c6c3_560x420__h_hutsulski-kraiky-poiasy-shyryna-7sm.jpg" alt="" />
+            <img src="https://st2.bazarok.ua/362e255f72c6c3_560x420__h_hutsulski-kraiky-poiasy-shyryna-7sm.jpg" alt="photo of hutsul clotes" />
         
             <h2 class="pretty-header left-right-line-header">ПОЯСНИЙ ОДЯГ</h2>
             <p>У ХІХ столітті та на початку ХХ століття поясною чоловічою ношею були штани. Полотняні - на теплу погоду, сукняні - на холодну. Полотняні штани називались <i>«поркениці»</i> й шили їх з доморобного білого грубого полотна. Теплі штани - гачі шили з сукна, вручну виробленого з вовни натуральних кольорів (чорного, темно-коричневого, білого) і фарбованої пряжі.</p>
@@ -53,8 +53,8 @@ export default function MensFashion() {
             <p>З 30-х років ХХ ст. були популярними зачіски з коротким волоссям на потилиці та більш довгим зверху. Волосся зачісували назад або на бік з проділом. Довге волосся, що не доходило до плечей, а також бороду носили тільки чоловіки поважного віку. Серед молодих хлопців не було прийнято відрощувати вуса чи бороду.</p>
             <p>До Другої світової війни деякі чоловіки носили модні у Європі та Америці вуса типу «зубна щітка». Найвідоміші власники таких вусів - Чарлі Чаплін та Адольф Гітлер.</p>            
             <div className="mens-img">
-                <img height='300' src="https://i.ibb.co/BwtLKzm/image.jpg" alt="" />
-                <img height='300' src="https://st.violity.com/auction/big/auctions/10/42/68/7/104268764.jpg" alt="" />
+                <img height='300' src="https://i.ibb.co/BwtLKzm/image.jpg" alt="photo of hutsul clotes" />
+                <img height='300' src="https://st.violity.com/auction/big/auctions/10/42/68/7/104268764.jpg" alt="photo of hutsul clotes" />
             </div>
         </div>
     </div>

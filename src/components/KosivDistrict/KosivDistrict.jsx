@@ -50,25 +50,25 @@ function KosivDistrict() {
 			<div className="history-moda">
 				<div  className="moda-block">
 					<a onClick={routeChange_1} href="">
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000287-8972e89730/1929%20%D1%80%20%D1%81%D0%A1%D0%BC%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B7%20%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%BE%D1%97%20%D0%B7%D0%B1%D1%96%D1%80%D0%BA%D0%B8%20%D0%92%D0%A8%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0.webp?ph=0025de801d" alt="" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000287-8972e89730/1929%20%D1%80%20%D1%81%D0%A1%D0%BC%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B7%20%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%BE%D1%97%20%D0%B7%D0%B1%D1%96%D1%80%D0%BA%D0%B8%20%D0%92%D0%A8%D0%BA%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0.webp?ph=0025de801d" alt="photo of hutsul clotes" />
 						<p>ЧОЛОВІЧА МОДА</p>
 					</a>
 				</div>
 				<div className="moda-block">
 					<a onClick={routeChange_2} href="">
-						<img src="https://i.siteapi.org/deHhsdewAuBKLn9B_nWuu6EOjjs=/0x0:800x538/9b287bab56f73d1.ua.s.siteapi.org/img/mp0lvtnjxioss00kk8wc0s4wk8cs48" alt="" />
+						<img src="https://i.siteapi.org/deHhsdewAuBKLn9B_nWuu6EOjjs=/0x0:800x538/9b287bab56f73d1.ua.s.siteapi.org/img/mp0lvtnjxioss00kk8wc0s4wk8cs48" alt="photo of hutsul clotes" />
 						<p>ВЕРХНІЙ ОДЯГ</p>
 					</a>
 				</div>
 				<div onClick={routeChange_3} className="moda-block">
 					<a href="">
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000289-93fd193fd2/700/1920-1930-%D1%82%D1%96%20%D1%80%D1%80%20%D1%81%D0%92%D0%B5%D1%80%D0%B1%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%20%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B7%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%BE%D1%97%20%D0%B7%D0%B1%D1%96%D1%80%D0%BA%D0%B8%20%D0%91%D0%9F%D0%B5%D1%82%D1%80%D0%B8%D1%87%D1%83%D0%BA%D0%B0-0.webp?ph=0025de801d" alt="" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000289-93fd193fd2/700/1920-1930-%D1%82%D1%96%20%D1%80%D1%80%20%D1%81%D0%92%D0%B5%D1%80%D0%B1%D0%BE%D0%B2%D0%B5%D1%86%D1%8C%20%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B7%20%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D0%BE%D1%97%20%D0%B7%D0%B1%D1%96%D1%80%D0%BA%D0%B8%20%D0%91%D0%9F%D0%B5%D1%82%D1%80%D0%B8%D1%87%D1%83%D0%BA%D0%B0-0.webp?ph=0025de801d" alt="photo of hutsul clotes" />
 						<p>ЖІНОЧИЙ ОДЯГ</p>
 					</a>
 				</div>
 				<div className="moda-block">
 					<a onClick={routeChange_4} href="">
-						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000285-6e8fb6e8fc/700/skansen05-696x464.webp?ph=0025de801d" alt="" />
+						<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000285-6e8fb6e8fc/700/skansen05-696x464.webp?ph=0025de801d" alt="photo of hutsul clotes" />
 						<p>АКСЕСУАРИ ТА ВЗУТТЯ</p>
 					</a>
 				</div>
@@ -84,14 +84,14 @@ function KosivDistrict() {
 			<div className="etno">
 				<h2>Елементи ентовиставки</h2>
 				<div className="img">
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000294-142bf142c1/48388704_2257588384454872_3456706734859485184_n.webp?ph=0025de801d" alt="" />
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000295-4d9cb4d9cc/48397009_2257588401121537_3456703230166171648_n.webp?ph=0025de801d" alt="" />
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000296-5209452096/48405003_2257588587788185_7205493021331161088_n.webp?ph=0025de801d" alt="" />
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000298-9c6039c604/48414527_2257588477788196_1271655299979149312_n.webp?ph=0025de801d" alt="" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000294-142bf142c1/48388704_2257588384454872_3456706734859485184_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000295-4d9cb4d9cc/48397009_2257588401121537_3456703230166171648_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000296-5209452096/48405003_2257588587788185_7205493021331161088_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000298-9c6039c604/48414527_2257588477788196_1271655299979149312_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
 				</div>
 				<div className="image">
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000299-d4885d4887/48417065_2257588321121545_3391435820509429760_n.webp?ph=0025de801d" alt="" />
-					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000300-24a8624a88/48985063_775647046122288_1161328679750467584_n.webp?ph=0025de801d" alt="" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000299-d4885d4887/48417065_2257588321121545_3391435820509429760_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
+					<img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000300-24a8624a88/48985063_775647046122288_1161328679750467584_n.webp?ph=0025de801d" alt="photo of hutsul clotes" />
 				</div>
 				<div className='more-photos'>
 					<p>Старі та сучасні фотографії <b> Старого Косова, Вербовця, Черганівки та Смодна </b>можна переглянути тут </p>

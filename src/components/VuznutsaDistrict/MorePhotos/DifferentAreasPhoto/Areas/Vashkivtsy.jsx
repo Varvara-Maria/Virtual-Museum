@@ -42,11 +42,11 @@ function Vashkivtsy() {
 
           <div className='photos'>
               <a onClick={routeChange_1} className='choise'>
-                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000053-024a8024aa/18%20%D0%902%20---.jpg?ph=0025de801d" alt="" />
+                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000053-024a8024aa/18%20%D0%902%20---.jpg?ph=0025de801d" alt="photo of hutsul clotes" />
                   <p>Історичні фото</p>
               </a>
               <a onClick={routeChange_2} className='choise'>
-                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000324-84e3284e34/P1660406-9.webp?ph=0025de801d" alt="" />
+                  <img src="https://0025de801d.cbaul-cdnwnd.com/326d60263c870efc83c994ce64d5c373/200000324-84e3284e34/P1660406-9.webp?ph=0025de801d" alt="photo of hutsul clotes" />
                   <p>Сучасні фото</p>
               </a>
           </div>
